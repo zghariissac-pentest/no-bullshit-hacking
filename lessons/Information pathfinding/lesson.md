@@ -8,7 +8,7 @@ They gather tons of output… but never connect anything.
 
 ---
 
-## 🧠 1. The core idea: "everything you see ss a lead"
+## 1. The core idea: "everything you see ss a lead"
 
 When you hack, every small detail is a breadcrumb:
 
@@ -23,7 +23,7 @@ Hackers don’t.
 
 ---
 
-## 🔍 2. Build an هnformation graph (Not notes)
+## 2. Build an هnformation graph (Not notes)
 
 Forget linear notes.
 Real hacking is messy.
@@ -48,7 +48,7 @@ When you see connections, the attack path appears.
 
 ---
 
-## 🎯 3. Ask: "What does this information give me access to?"
+## 3. Ask: "What does this information give me access to?"
 
 This question is your compass.
 
@@ -64,7 +64,7 @@ Every fact pushes the attack forward.
 
 ---
 
-## 🔧 4. Use Ultra-targeted enumeration (Not full scans)
+## 4. Use Ultra-targeted enumeration (Not full scans)
 
 Once you see a lead, run only what helps expand it.
 
@@ -78,7 +78,7 @@ Examples:
 
 ---
 
-## 📌 5. Track information in a “Live board”
+## 5. Track information in a “Live board”
 
 Keep 3 sections only:
 
@@ -112,7 +112,7 @@ This system keeps your brain empty and your workflow sharp.
 
 ---
 
-## 🔥 6. Practical scenario (Short, Realistic)
+## 6. Practical scenario (Short, Realistic)
 
 Target: 10.10.11.22
 Port 8080 open.
