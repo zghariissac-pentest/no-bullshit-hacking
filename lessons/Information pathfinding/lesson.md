@@ -1,4 +1,4 @@
-# Lesson 2 — Information pathfinding (How Hackers actually think)
+# Lesson 2 : Information pathfinding (How Hackers actually think)
 
 If Lesson 1 was about **starting with purpose**, Lesson 2 is about
 **how you collect, track, and connect information to guide your attack path**.
