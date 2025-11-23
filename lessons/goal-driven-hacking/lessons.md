@@ -13,7 +13,7 @@ This lesson teaches you the one mindset that instantly puts you above 80% of beg
 
 ---
 
-## 🎯 1. Start With a Micro‑Goal
+##  1. Start With a Micro‑Goal
 
 A good micro‑goal is small, clear, and testable.
 
@@ -32,7 +32,7 @@ Bad goals:
 
 ---
 
-## 🧠 2. Let the Goal Choose the Tool
+##  2. Let the Goal Choose the Tool
 
 Instead of scanning the whole world, you choose tools based on what you need to answer.
 
@@ -46,7 +46,7 @@ This creates **tight feedback loops**.
 
 ---
 
-## 🔍 3. Ask the right question before every action
+##  3. Ask the right question before every action
 
 Before every command, ask:
 
@@ -61,7 +61,7 @@ This alone turns:
 
 ---
 
-## ⚡ 4. Keep your workflow minimal
+##  4. Keep your workflow minimal
 
 Pros don’t do 50 things.
 They do **5 high‑impact things**.
@@ -76,7 +76,7 @@ Minimal = no overwhelm.
 
 ---
 
-## 📄 5. Write down micro‑goals as You go
+##  5. Write down micro‑goals as You go
 
 You can’t keep everything in your head.
 Have a simple live list:
@@ -93,7 +93,7 @@ Every path becomes progress.
 
 ---
 
-## 🧪 6. Example (short practical scenario)
+##  6. Example (short practical scenario)
 
 Target: 10.10.10.50
 Port 8080 open.
@@ -122,7 +122,7 @@ Port 8080 open.
 
 ---
 
-## 🚀 7. Your practice task
+##  7. Your practice task
 
 Pick *any* machine you solved before.
 Redo ONLY the first 15 minutes using this system:
